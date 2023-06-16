@@ -1,0 +1,10 @@
+Airedale
+Bloodhound
+Bulldog
+Cockapoo
+Doberman
+Golden Retriever
+Labrador
+Maltese
+Pomeranian
+Scotch Terrier
